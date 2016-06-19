@@ -1,0 +1,5 @@
+pygments/lexers/_mapping.py
+*.pyc
+build/*
+Pygments.egg-info/*
+
